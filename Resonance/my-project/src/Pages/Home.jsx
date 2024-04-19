@@ -37,7 +37,7 @@ const Home = () => {
                             <h2 className="text-4xl w-40 mt-4">Reasons why we are best</h2>
                         </div>
                         <div>
-                            <img src="/src/assets/Resonance3D.png" alt="barCode" className="w-60"/>
+                            <img src="/Resonance3D.png" alt="barCode" className="w-60"/>
                         </div>
                     </div>
 
